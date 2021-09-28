@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Hooks/static/css/main.fbcb8246.chunk.css",
+    "main.js": "/Hooks/static/js/main.9dd37ee3.chunk.js",
+    "main.js.map": "/Hooks/static/js/main.9dd37ee3.chunk.js.map",
+    "runtime-main.js": "/Hooks/static/js/runtime-main.40f649fb.js",
+    "runtime-main.js.map": "/Hooks/static/js/runtime-main.40f649fb.js.map",
+    "static/js/2.5cbbce68.chunk.js": "/Hooks/static/js/2.5cbbce68.chunk.js",
+    "static/js/2.5cbbce68.chunk.js.map": "/Hooks/static/js/2.5cbbce68.chunk.js.map",
+    "static/js/3.dc61aea5.chunk.js": "/Hooks/static/js/3.dc61aea5.chunk.js",
+    "static/js/3.dc61aea5.chunk.js.map": "/Hooks/static/js/3.dc61aea5.chunk.js.map",
+    "index.html": "/Hooks/index.html",
+    "static/css/main.fbcb8246.chunk.css.map": "/Hooks/static/css/main.fbcb8246.chunk.css.map",
+    "static/js/2.5cbbce68.chunk.js.LICENSE.txt": "/Hooks/static/js/2.5cbbce68.chunk.js.LICENSE.txt",
+    "static/media/aws.6d289f9a.png": "/Hooks/static/media/aws.6d289f9a.png",
+    "static/media/fs.a3564b94.png": "/Hooks/static/media/fs.a3564b94.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40f649fb.js",
+    "static/js/2.5cbbce68.chunk.js",
+    "static/css/main.fbcb8246.chunk.css",
+    "static/js/main.9dd37ee3.chunk.js"
+  ]
+}
