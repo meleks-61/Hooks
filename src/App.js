@@ -59,7 +59,7 @@ const filteredStudents=useMemo(()=>studentList.filter((students)=> students.name
 const reset=useCallback(()=>{
   setSearch("");
   setText("");
-},[studentList])//useCallback useMemo ile aynı işlemi yapar,aralarındaki fark useMemo bir değer hafızaya alırken useCallback bir fonksiyon hafızay alır.
+},[])//useCallback useMemo ile aynı işlemi yapar,aralarındaki fark useMemo bir değer hafızaya alırken useCallback bir fonksiyon hafızay alır.
 
 
 
